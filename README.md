@@ -2,7 +2,7 @@
 
 Docker image for freyja, based offcial miniconda container image.
 
-Freyja source: https://github.com/andersen-lab/Freyja (not affliiated)
+Freyja source: https://github.com/andersen-lab/Freyja (not affiliated)
 
 
 ## Container images
